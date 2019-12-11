@@ -1,0 +1,15 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  stdafx.cpp
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  SkillMateDlg.cpp
+  SkillMate.cpp
+  OglWnd.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\SkillMate\OglWnd.cpp(162,112): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  OglObjects.cpp
+  OdeOgl.cpp
+  Ode.cpp
+  Geometry.cpp
+  CamOgl.cpp
+  코드를 생성하고 있습니다...
+CamOgl.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  SkillMate.vcxproj -> C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\Debug\SkillMate.exe

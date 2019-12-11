@@ -1,0 +1,161 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  OPC_VolumeCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_TreeCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_TreeBuilders.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_SphereCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_RayCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_PlanesCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_Picking.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_OptimizedTree.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_OBBCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_Model.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_MeshInterface.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_LSSCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_HybridModel.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_Common.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_Collider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_BaseModel.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_AABBTree.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPC_AABBCollider.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Opcode.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceUtils.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  IceTriangle.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceSegment.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceRevisitedRadix.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceRay.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceRandom.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IcePoint.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IcePlane.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceOBB.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceMatrix4x4.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceMatrix3x3.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceIndexedTriangle.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceHPoint.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceContainer.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceAABB.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  util.cpp
+  timer.cpp
+  testing.cpp
+  stepfast.cpp
+  step.cpp
+  sphere.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  rotation.cpp
+  ray.cpp
+  quickstep.cpp
+  plane.cpp
+  odetls.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  odeou.cpp
+  odemath.cpp
+  odeinit.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ode.cpp
+  obstack.cpp
+  misc.cpp
+  memory.cpp
+  matrix.cpp
+  mat.cpp
+  mass.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  lcp.cpp
+  universal.cpp
+  slider.cpp
+  pu.cpp
+  pr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  plane2d.cpp
+  piston.cpp
+  null.cpp
+  lmotor.cpp
+  joint.cpp
+  hinge2.cpp
+  hinge.cpp
+  fixed.cpp
+  contact.cpp
+  ball.cpp
+  amotor.cpp
+  heightfield.cpp
+  export-dif.cpp
+  error.cpp
+  cylinder.cpp
+  convex.cpp
+  collision_util.cpp
+  collision_trimesh_trimesh_new.cpp
+  collision_trimesh_trimesh.cpp
+  collision_trimesh_sphere.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  collision_trimesh_ray.cpp
+  collision_trimesh_plane.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision_trimesh_opcode.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision_trimesh_gimpact.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision_trimesh_distance.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision_trimesh_disabled.cpp
+  collision_trimesh_ccylinder.cpp
+  collision_trimesh_box.cpp
+  collision_transform.cpp
+  collision_space.cpp
+  collision_sapspace.cpp
+  collision_quadtreespace.cpp
+  collision_kernel.cpp
+C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\OPCODE\Ice\IceFPU.h(44,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision_cylinder_trimesh.cpp
+  collision_cylinder_sphere.cpp
+  collision_cylinder_plane.cpp
+  collision_cylinder_box.cpp
+  capsule.cpp
+  box.cpp
+  array.cpp
+  코드를 생성하고 있습니다...
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  fastltsolve.c
+  fastlsolve.c
+  fastldlt.c
+  fastdot.c
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1455,5): warning MSB8012: TargetPath(C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\build\vs2008\..\..\lib\DebugDoubleLib\ode.lib) does not match the Library's OutputFile property value (C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\lib\DebugDoubleLib\ode_doubled.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1457,5): warning MSB8012: TargetName(ode) does not match the Library's OutputFile property value (ode_doubled). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  ode.vcxproj -> C:\Users\wbjin\Desktop\c191129c-SkillMate_Example\ode-0.11.1\build\vs2008\..\..\lib\DebugDoubleLib\ode.lib
